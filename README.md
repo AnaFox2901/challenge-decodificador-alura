@@ -22,4 +22,4 @@ Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/gui
 
 
 
-| [<img loading="lazy" src="" width=115><br><sub>AnaFox</sub>](https://github.com/AnaFox2901) 
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/109394077?v=4" width=115><br><sub>Ana Raposo</sub>](https://github.com/AnaFox2901) 
