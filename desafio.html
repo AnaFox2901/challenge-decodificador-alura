@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Decodificador de texto </title>
+    <link rel="stylesheet" href="decodificador.css">
+
+</head>
+
+
+<body>
+    
+    <main class="main__container">
+        <header class="cabecalho">
+            <h1> Olá! Vamos criar ou ler uma mensagem oculta?</h1>
+            <img src="assets/alura-colorido.jpg" /.jpg" alt="Logo Alura">
+        </header>
+
+       
+        <div class="container__input">
+
+            <div class="input">
+              
+                    <textarea id="input__texto"  placeholder="Digite seu texto: "></textarea>
+               
+                    <div class="div__maiusculas">
+                        <img class="img__input" src="assets/detetive_434.jpg" alt="detetive" > 
+                        <p>  Apenas letras minusculas e sem acento. </p>
+                    </div>
+                        
+                            <div class="container__botoes">
+                                <button onclick="criptografar()" class="criptografar" >Criptografar</button>
+                                <button onclick="descriptografar()" class="descriptografar"> Descriptografar</button>
+                                <button onclick="copiar()" class="copiar"> Copiar</button>
+                            </div>
+                    
+            </div>
+
+            <div id="output">
+                <img src="assets/detetive_434.jpg" alt="detetive.">
+                <h2> Nenhuma mensagem encontrada</h2>
+                <span style="font-size: 20px;"> Digite um texto que voce deseja criptografar ou descriptografar. </span></span>
+                
+            </div> 
+        </div>
+    
+        
+
+
+    </main>
+
+    <footer class="rodape">
+        <img class="rodape__img" src="assets/eu.jpg" alt="Eu, feliz por fazer o curso da Alura!">
+        <h3>Desenvolvido por Ana Raposo / 2024.
+        </h3>
+    </footer>
+
+    <script src="./challenge.js"></script>
+</body>
+
+
+</html>
