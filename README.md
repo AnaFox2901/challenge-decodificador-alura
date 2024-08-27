@@ -16,7 +16,7 @@ A página criada permitirá que o usuário crie ou leia códigos criptografados,
 - ``HTML e CSS``
 
 ## 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/gui-lirasilva/Edige-POO/tree/master/src).
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/AnaFox2901/challenge-decodificador-alura)).
 
 # Autores
 
