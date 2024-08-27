@@ -6,7 +6,7 @@
 <p align="justify">
  Projeto de Decodificador de Texto completo, após estudos de Lógica de Programação em JavaScript, HTML e CSS, Chat GPT e Formação Desenvolvimento Pessoal T7-ONE.
 
-A página desenvolvida permite ao usuário criar ou ler códigos criptografados, conseguindo manter uma conversa mais segura com quem desejar.
+A página desenvolvida permite ao usuário criar ou ler códigos criptografados, podendo assim, manter uma conversa mais segura com quem desejar.
 
 </p>
 
